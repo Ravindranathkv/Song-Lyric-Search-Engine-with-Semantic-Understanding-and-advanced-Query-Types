@@ -7,10 +7,10 @@ This project is a song lyric search engine developed as part of a course at Texa
 - Introduction
 - Features
 - Installation
-- Usage
 - Contributing
 - License
 
+# Introduction
 The Song Lyric Search Engine is designed to provide accurate and efficient text search capabilities for song lyrics. By employing BM-25 for ranking, the engine supports complex query types to enhance the search experience. The project includes data preprocessing and tokenization to ensure optimal performance.
 
 # Features
