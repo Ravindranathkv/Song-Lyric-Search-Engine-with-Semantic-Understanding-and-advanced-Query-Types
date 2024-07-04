@@ -4,13 +4,12 @@
 This project is a song lyric search engine developed as part of a course at Texas A&M University (TAMU). The search engine leverages the BM-25 algorithm and supports various advanced query types, including spell check, permute index, phrase proximity, and wildcard queries. The project showcases skills in Natural Language Processing (NLP) and Data Science using Python and NLTK libraries.
 
 # Table of Contents
-Introduction
-Features
-Installation
-Usage
-Contributing
-License
-Introduction
+- Introduction
+- Features
+- Installation
+- Usage
+- Contributing
+- License
 
 The Song Lyric Search Engine is designed to provide accurate and efficient text search capabilities for song lyrics. By employing BM-25 for ranking, the engine supports complex query types to enhance the search experience. The project includes data preprocessing and tokenization to ensure optimal performance.
 
